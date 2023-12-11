@@ -1,0 +1,40 @@
+/*Selector de nombre*/
+body{
+    /* Comentario */
+    /* Fondo de color */
+    background-color:aliceblue;
+}
+h1{
+    /* Color de la letra */
+    color: #75616b;
+}
+p{
+    /* Tamaño de letra */
+    font-size: 20px;
+}
+h3{
+    color: #d34017;
+}
+
+
+/*Selector de clases*/
+.gusto{
+    color: #044bff;
+}
+
+#imagenEmociones{
+    /* cm, mm, %, px */
+    border-radius: 50px;
+    width: 300px;
+    height: 250px;
+    border: solid;
+    color: #d34017;
+}
+
+.ideas{
+    border-radius: 50px;
+    width: 300px;
+    height: 250px;
+    border: solid;
+    color:black;
+}
